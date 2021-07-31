@@ -4,7 +4,7 @@
 - Feature engineered by creating dummy variables for cateogrical and string data
 
 
-<img src="Images/accident-severity-us-accidents.png" class="center" alt="" style="width:50%;">
+<img src="Images/accident-severity-us-accidents.png">
 
 
 
