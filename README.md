@@ -30,4 +30,6 @@
 # [Project 5: Bird Species Prediction](https://github.com/MichaelBryantDS/Bird-Species-Prediction)
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
-- Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95%
+- Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95.2%
+
+<img src="Images/birds-classification.jpg">
