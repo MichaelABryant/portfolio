@@ -8,6 +8,6 @@
 
 # [Project 3: Predicting Sales Price of Vehicles](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
 
-# [Project 4: Grouping Credit Card Users] (https://github.com/MichaelBryantDS/Grouping-Credit-Card-Users)
+# [Project 4: Grouping Credit Card Users](https://github.com/MichaelBryantDS/Grouping-Credit-Card-Users)
 
 # Project 5: Predicting Bird Species (DL/CNN)
