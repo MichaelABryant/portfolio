@@ -1,5 +1,3 @@
-# Michael Bryant Portfolio
-
 # Project 1: Understanding US Accidents (EDA/GeoPandas)
 
 # Project 2: Predicting Heart Disease (ML/Classification)
