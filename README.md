@@ -4,21 +4,7 @@
 - Feature engineered by creating dummy variables for cateogrical and string data
 
 
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
 <img src="Images/accident-severity-us-accidents.png" class="center" alt="" style="width:50%;">
-</body>
-</html>
 
 
 
