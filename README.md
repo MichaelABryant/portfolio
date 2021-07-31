@@ -6,7 +6,7 @@
 
 # [Project 2: Predicting Heart Disease](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 
-# Project 3: Predicting Sales Price of Vehicles (ML/Regression)
+# [Project 3: Predicting Sales Price of Vehicles](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
 
 # Project 4: Grouping Credit Card Users (ML/Clustering)
 
