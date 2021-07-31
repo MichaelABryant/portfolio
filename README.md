@@ -9,6 +9,9 @@
 - Hyperparameter tuned the models and, with a five-fold cross validation, obtained an accuracy of 85.5% and AUC score of 0.941
 
 # [Project 3: Vehicle Sales Price Prediction](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
+- Created seven machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
+- Performed an exploratory data analysis and feature engineered dummy variables for categorical data
+- Hyperparameter tuned the models and, with a five-fold cross validation, obtained an MAE score of $549.80 and R-squared score of 0.969
 
 # [Project 4: Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
 
