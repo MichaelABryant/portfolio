@@ -3,7 +3,7 @@
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Feature engineered by creating dummy variables for cateogrical and string data
 
-<img src="https://github.com/MichaelBryantDS/Portfolio/blob/main/Images/accident-severity-us-accidents.jpg" class="img-responsive" alt=""> </img>
+<img src="https://github.com/MichaelBryantDS/Portfolio/blob/main/Images/accident-severity-us-accidents.jpg" class="img-responsive" alt="">
 
 <!-- ![](https://github.com/MichaelBryantDS/Portfolio/blob/main/Images/accident-severity-us-accidents.jpg) -->
 
