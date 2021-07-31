@@ -5,8 +5,6 @@
 
 <img src="Images/accident-severity-us-accidents.jpg" class="img-responsive" alt="">
 
-<!-- ![](https://github.com/MichaelBryantDS/Portfolio/blob/main/Images/accident-severity-us-accidents.jpg) -->
-
 # [Project 2: Heart Disease Prediction](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age/sex
