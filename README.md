@@ -10,4 +10,4 @@
 
 # [Project 4: Grouping Credit Card Users](https://github.com/MichaelBryantDS/Grouping-Credit-Card-Users)
 
-# Project 5: Predicting Bird Species (DL/CNN)
+# [Project 5: Predicting Bird Species](https://github.com/MichaelBryantDS/Predicting-Bird-Species)
