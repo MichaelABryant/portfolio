@@ -3,7 +3,25 @@
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Feature engineered by creating dummy variables for cateogrical and string data
 
-<img src="Images/accident-severity-us-accidents.png" class="center" alt="">
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+<img src="Images/accident-severity-us-accidents.png" class="center" alt="" style="width:50%;">
+</body>
+</html>
+
+
+
 
 # [Project 2: Heart Disease Prediction](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
