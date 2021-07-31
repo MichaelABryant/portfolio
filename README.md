@@ -18,6 +18,8 @@
 - Performed an exploratory data analysis and feature engineered dummy variables for categorical data
 - Hyperparameter tuned the models and, with a five-fold cross validation, obtained an MAE score of $549.80 and R-squared score of 0.969
 
+<img src="Images/selling-price-fuel-type-vehicle-pred.png">
+
 # [Project 4: Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
 - Determined a majority of the explained variance occurred from users using their credit cards for cash advances or purchases with prinipal component analysis
