@@ -4,7 +4,7 @@
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Feature engineered by creating dummy variables for cateogrical and string data
 
-# Project 2: Predicting Heart Disease (ML/Classification)
+# [Project 2: Predicting Heart Disease](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 
 # Project 3: Predicting Sales Price of Vehicles (ML/Regression)
 
