@@ -7,6 +7,6 @@
 
 # [Project 3: Vehicle Sales Price Prediction](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
 
-# [Project 4: Clustering Credit Card Users](https://github.com/MichaelBryantDS/Clustering-Credit-Card-Users)
+# [Project 4: Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
 
 # [Project 5: Bird Species Prediction](https://github.com/MichaelBryantDS/Bird-Species-Prediction)
