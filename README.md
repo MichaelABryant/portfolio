@@ -1,5 +1,4 @@
-# Portfolio
-Data science portfolio
+# Michael Bryant Portfolio
 
 # Project 1: Understanding US Accidents (EDA/GeoPandas)
 
