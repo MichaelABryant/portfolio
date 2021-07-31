@@ -25,6 +25,8 @@
 - Determined a majority of the explained variance occurred from users using their credit cards for cash advances or purchases with prinipal component analysis
 - Clustered users into groups based on credit card usage which can be used to target users with specific credit card offers
 
+<img src="Images/clusters-credit-card-users.png">
+
 # [Project 5: Bird Species Prediction](https://github.com/MichaelBryantDS/Bird-Species-Prediction)
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
