@@ -1,5 +1,5 @@
 # [Project 1: US Vehicle Accidents EDA](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
-- Performed an exploratory data analysis on a dataset consisting of 2.9 million accident records
+- Performed an exploratory data analysis on a dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Feature engineered by creating dummy variables for cateogrical and string data
 
