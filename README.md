@@ -1,7 +1,7 @@
 # [Project 1: US Vehicle Accidents EDA](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
 - Performed an exploratory data analysis on a dataset consisting of 2.9 million accident records and 47 variables
-- Cleaned data by imputation and by finding missing data through a Python library and API
-- Feature engineered by creating dummy variables for cateogrical and string data
+- Cleaned data by imputation and finding missing data through a Python library and API
+- Engineered features by creating dummy variables for cateogrical and string data
 
 
 <img src="Images/accident-severity-us-accidents.png">
@@ -22,7 +22,7 @@
 
 # [Project 4: Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
-- Determined a majority of the explained variance occurred from users using their credit cards for cash advances or purchases with prinipal component analysis
+- Determined a majority of the explained variance occurred from users using their credit cards for cash advances or purchases with principal component analysis
 - Clustered users into groups based on credit card usage which can be used to target users with specific credit card offers
 
 <img src="Images/clusters-credit-card-users.png">
