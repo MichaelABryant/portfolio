@@ -1,7 +1,7 @@
 # Project 1: COVID-19 EDA in SQL and Visualizations in Tableau
 - Performed an exploratory data analysis on a dataset consisting of 106,357 records and 59 variables
 - Cleaned data by imputation in Microsoft Excel
-- Created dashboards in Tableau to visualize cases, deaths, vaccinations, hospitalizations, testing, and country demographics
+- Created dashboards to visualize cases, deaths, vaccinations, hospitalizations, testing, and country demographics
 
 
 # [Project 2: US Vehicle Accidents EDA in Python](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
