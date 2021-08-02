@@ -13,7 +13,7 @@
 
 # [Project 3: Heart Disease Prediction in Python](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
-- Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age/sex
+- Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and old age for each sex
 - Hyperparameter tuned the models and, with a five-fold cross validation, obtained an accuracy of 85.5% and AUC score of 0.941
 
 <img src="Images/age-den-ker-heart-disease.png">
