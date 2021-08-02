@@ -27,7 +27,7 @@
 
 # [Project 5: Credit Card Users Cluster Analysis in Python](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
-- Determined a majority of the explained variance occurred from users using their credit cards for cash advances or purchases with principal component analysis
+- Determined a majority of the explained variance, using principal component analysis, was due to users using their credit cards for cash advances or purchases
 - Clustered users into groups based on credit card usage which can be used to target users with specific credit card offers
 
 <img src="Images/clusters-credit-card-users.png">
