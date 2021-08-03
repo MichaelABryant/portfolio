@@ -1,4 +1,4 @@
-# Project 1: COVID-19 EDA in SQL and Visualizations in Tableau
+# Project 1: COVID-19 EDA in SQL and Tableau
 - Performed an exploratory data analysis on a dataset consisting of 106,357 records and 59 variables
 - Created two dashboards to visualize cases, deaths, vaccinations, hospitalizations, and testing for the World and US
 
