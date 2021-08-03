@@ -40,6 +40,6 @@
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95.2%
-- Predictive model can be used for a phone app to allow the user to take a photo of a bird and receive a prediction of the species
+- Predictive model can be used for a phone app to analyze a user taken photo of a bird and output a prediction of the species
 
 <img src="Images/birds-classification.jpg">
