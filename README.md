@@ -1,4 +1,4 @@
-# Project 1: COVID-19 EDA (SQL and Tableau)
+# [Project 1: COVID-19 EDA (SQL and Tableau)](https://github.com/MichaelBryantDS/COVID19-EDA)
 - Performed an exploratory data analysis on a dataset consisting of 106,357 records and 59 variables
 - Created two dashboards to visualize cases, deaths, vaccinations, hospitalizations, and testing for the World and US
 
