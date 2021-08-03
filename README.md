@@ -9,7 +9,7 @@
 - Performed an exploratory data analysis on a dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and finding missing data through a Python library and API
 - Engineered features by creating dummy variables for cateogrical and string data
-- Wrangled data can be used by data analytics team to make predictions of accident severity
+- Wrangled data can be used by a data analytics team to make predictions of accident severity
 
 <img src="Images/accident-severity-us-accidents.png">
 
