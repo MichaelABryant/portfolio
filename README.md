@@ -1,7 +1,7 @@
 # [Project 1: COVID-19 EDA (SQL and Tableau)](https://github.com/MichaelBryantDS/COVID19-EDA)
 - Performed an exploratory data analysis on a dataset consisting of 106,357 records and 59 variables
 - Created two dashboards with eight visualizations of cases, deaths, vaccinations, hospitalizations, and testing for the World and US
-- Queries and visualizations can be used for creating a website or an app to give daily summaries of the status of COVID-19
+- Queries and visualizations can be used for creating a website, an app, or reports to give daily summaries of the status of COVID-19 to users or clients
 
 <img src="Images/covid19-world-summary.jpg">
 
