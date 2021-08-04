@@ -7,9 +7,8 @@
 
 # [Project 2: US Vehicle Accidents EDA (Python)](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
-- Cleaned data by imputation and by finding missing data through a Python library and API
-- Engineered features by creating dummy variables for cateogrical and string data
-- Example application: wrangled data can be used by a data analytics team to make predictions of accident severity for city planners
+- Cleaned data by imputation and by finding missing data through a Python library and API, and engineered features from categorical and string data
+- Visualizations and wrangled data can be used to make predictions of accident severity and create reports for city planner clients
 
 <img src="Images/accident-severity-us-accidents.png">
 
