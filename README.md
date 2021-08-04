@@ -6,7 +6,7 @@
 <img src="Images/covid19-world-summary.jpg">
 
 # [Project 2: US Vehicle Accidents EDA (Python)](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
-- Performed an exploratory data analysis on a dataset consisting of 2.9 million accident records and 47 variables
+- Performed an exploratory data analysis on a 1.07 GB dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and finding missing data through a Python library and API
 - Engineered features by creating dummy variables for cateogrical and string data
 - Example application: wrangled data can be used by a data analytics team to make predictions of accident severity for city planners
