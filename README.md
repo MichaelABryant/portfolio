@@ -10,7 +10,7 @@
 - Cleaned data by imputation and by finding missing data through a Python library and API, and engineered features from categorical and string data
 - Visualizations and wrangled data can be used to make predictions of accident severity and create reports for city planner clients
 
-<img src="Images/accident-severity-us-accidents.png">
+<img src="Images/us-accidents.png">
 
 # [Project 3: Heart Disease Prediction (Python)](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
