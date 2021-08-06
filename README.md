@@ -6,7 +6,7 @@
 # [Project 2: US Vehicle Accidents EDA (Python)](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and by finding missing data through a Python library and API, and engineered features from categorical and string data
-- Pre-processed data can be used to make predictions of accident severity for emergency response services, and visualizations can be used by city planners to reduce vehicle accidents
+- Pre-processed data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
 
 # [Project 3: Heart Disease Prediction (Python)](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
