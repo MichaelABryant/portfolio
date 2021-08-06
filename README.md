@@ -6,7 +6,7 @@
 # [Project 2: US Vehicle Accidents EDA (Python)](https://github.com/MichaelBryantDS/US-Vehicle-Accidents-EDA)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and by finding missing data through a Python library and API, and engineered features from categorical and string data
-- Pre-processed data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
+- Prepared data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
 
 # [Project 3: Vehicle Sales Price Prediction (Python)](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
 - Created seven machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
