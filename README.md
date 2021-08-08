@@ -6,13 +6,13 @@
 # [Project 2: Vehicle Sales Price Prediction (Python)](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
 - Created seven machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
 - Performed an exploratory data analysis and feature engineered dummy variables for categorical data
-- Hyperparameter tuned the models and, with a five-fold cross validation, obtained an MAE score of $549.80 and R-squared score of 0.969
+- Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an MAE score of $549.80 and R-squared score of 0.969
 - Example application: predictive model can be implemented onto a website for advertising cars to suggest a sales price to the user
 
 # [Project 3: Heart Disease Prediction (Python)](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age for increased risk for each sex
-- Hyperparameter tuned the models and, with a five-fold cross validation, obtained an accuracy of 85.5% and AUC score of 0.941
+- Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an accuracy of 85.5% and AUC score of 0.941
 - Example application: predictive model can be used by medical doctors to give patients the probability of having heart disease
 
 # [Project 4: Credit Card Users Cluster Analysis (Python)](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
