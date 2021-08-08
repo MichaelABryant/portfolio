@@ -1,7 +1,7 @@
 # [Project 1: COVID-19 EDA (SQL/Tableau)](https://github.com/MichaelBryantDS/COVID19-EDA)
 - Performed an exploratory data analysis on a dataset consisting of 106,357 records and 59 variables
 - Created two dashboards with eight visualizations of cases, deaths, vaccinations, hospitalizations, and testing for the World and the US
-- Queries and visualizations can be used for creating a website or an app, and automated reports to give daily summaries of the status of COVID-19 to users and clients
+- Queries and visualizations can be used for creating a website or an app, and reports can be automated to give daily summaries of the status of COVID-19 to users and clients
 
 # [Project 2: Vehicle Sales Price Prediction (Python)](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
 - Created seven machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
