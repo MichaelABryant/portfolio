@@ -7,7 +7,7 @@
 - Created 12 machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
 - Performed an exploratory data analysis and feature engineered dummy variables for categorical data
 - Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an MAE score of $549.80 and R-squared score of 0.969
-- Predictive model is implemented with a front end which can be used suggest a sales price to the user
+- Predictive model is implemented with a front end as a [web app](https://predict-vehicle-price.herokuapp.com/) which can be used suggest a sales price to the user
 
 # [Project 3: Heart Disease Prediction (Python)](https://github.com/MichaelBryantDS/Heart-Disease-Prediction)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
