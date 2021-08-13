@@ -3,8 +3,8 @@
 - Created two dashboards with eight visualizations of cases, deaths, vaccinations, hospitalizations, and testing for the World and the US
 - Queries and visualizations can be used for creating a website or an app, and reports can be automated to give daily summaries of the status of COVID-19 to users and clients
 
-# [Project 2: Vehicle Sales Price Prediction (Python)](https://github.com/MichaelBryantDS/Vehicle-Sales-Price-Prediction)
-- Created seven machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
+# [Project 2: Vehicle Sales Price Prediction (Python)](https://github.com/MichaelBryantDS/vehicle-price-pred)
+- Created 12 machine learning models to make a regression prediction of vehicle sales price using 301 vehicle sales records and seven features
 - Performed an exploratory data analysis and feature engineered dummy variables for categorical data
 - Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an MAE score of $549.80 and R-squared score of 0.969
 - Example application: predictive model can be implemented onto a website for advertising cars to suggest a sales price to the user
