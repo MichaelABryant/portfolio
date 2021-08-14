@@ -6,13 +6,13 @@
 # [Project 2: Vehicle Sales Price Prediction (Python/HTML)](https://github.com/MichaelBryantDS/vehicle-price-pred)
 - Created 12 regression machine learning models to make a prediction of vehicle sales price using 301 vehicle sales records and seven features
 - Performed an exploratory data analysis and feature engineered dummy variables for categorical data
-- Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an MAE score of $502.69 and R-squared score of 0.9703
+- Hyperparameter tuned the models with a five-fold cross-validation and obtained an MAE score of $502.69 and R-squared score of 0.9703 from the test set
 - Deployed the best model with a [front end](https://predict-vehicle-price.herokuapp.com/) hosted on a cloud application platform which can be used to suggest a sales price to people interested in selling their vehicle
 
 # [Project 3: Heart Disease Prediction (Python/HTML)](https://github.com/MichaelBryantDS/heart-disease-pred)
 - Created 12 classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age for increased risk for each sex
-- Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an accuracy of 85.5% and AUC score of 0.941
+- Hyperparameter tuned the models with a five-fold cross-validation and obtained an accuracy of 84.2% and AUC score of 0.931
 - Deployed the best model with a [front end](https://predict-heart-diseases.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients 
 
 # [Project 4: Credit Card Users Cluster Analysis (Python)](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
