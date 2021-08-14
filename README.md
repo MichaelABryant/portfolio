@@ -9,7 +9,7 @@
 - Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an MAE score of $502.69 and R-squared score of 0.9703
 - Deployed the best model with a front end as a [web app](https://predict-vehicle-price.herokuapp.com/) which can be used suggest a sales price to the user
 
-# [Project 3: Heart Disease Prediction (Python)](https://github.com/MichaelBryantDS/heart-disease-pred)
+# [Project 3: Heart Disease Prediction (Python/HTML)](https://github.com/MichaelBryantDS/heart-disease-pred)
 - Created seven machine learning models to make a classification prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age for increased risk for each sex
 - Hyperparameter tuned the models and, with a five-fold cross-validation, obtained an accuracy of 85.5% and AUC score of 0.941
