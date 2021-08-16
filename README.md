@@ -15,7 +15,7 @@
 - Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an accuracy of 85.5% from the test set
 - Deployed the best model with a [front end](https://predict-heart-diseases.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients 
 
-# [Project 4: Credit Card Users Cluster Analysis (Python)](https://github.com/MichaelBryantDS/Credit-Card-Users-Cluster-Analysis)
+# [Project 4: Credit Card Users Cluster Analysis (Python)](https://github.com/MichaelBryantDS/credit-card-cluster)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
 - Determined a majority of the explained variance, using principal component analysis, was due to users using their credit cards for cash advances or purchases
 - Clustered users into four groups based on credit card usage determined by principal component analysis
