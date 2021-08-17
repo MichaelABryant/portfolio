@@ -22,12 +22,12 @@
 - Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
 - Deployed the best model with a [front end](https://ad-advisor.herokuapp.com/) hosted on a cloud application platform which can be used to consult credit card companies on the most efficient ads
 
-# [Project 5: US Vehicle Accident Severity Prediction (Python)](https://github.com/MichaelBryantDS/US-Vehicle-Accident-Severity-Prediction)
+# [Project 5: US Vehicle Accident Severity Prediction (Python/Jupyter Notebook)](https://github.com/MichaelBryantDS/US-Vehicle-Accident-Severity-Prediction)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and by finding missing data through a Python library and API, and engineered features from categorical and string data
 - Prepared data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
 
-# [Project 6: Bird Species Prediction (Python)](https://github.com/MichaelBryantDS/Bird-Species-Prediction)
+# [Project 6: Bird Species Prediction (Python/Jupyter Notebook)](https://github.com/MichaelBryantDS/Bird-Species-Prediction)
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95.2%
