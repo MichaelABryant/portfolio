@@ -17,9 +17,10 @@
 
 # [Project 4: Credit Card Users Cluster Analysis (Python/HTML/Heroku)](https://github.com/MichaelBryantDS/credit-card-cluster)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
-- Determined a majority of the explained variance, using principal component analysis, was due to users using their credit cards for cash advances or purchases
-- Clustered users into four groups based on credit card usage determined by principal component analysis
-- Example application: Clusters can be used by credit card companies to target users with specific credit card offers based on previous usage
+- Determined a majority of the explained variance, using principal component analysis (PCA), was due to users using their credit cards for purchases and cash advances
+- Performed two cluster analyses based on the PCA resulting in 16 categories of users to target with different advertisements
+- Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
+- Deployed the best model with a [front end](https://ad-advisor.herokuapp.com/) hosted on a cloud application platform which can be used to consult credit card companies on the most efficient ads
 
 # [Project 5: US Vehicle Accident Severity Prediction (Python)](https://github.com/MichaelBryantDS/US-Vehicle-Accident-Severity-Prediction)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
