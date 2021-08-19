@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: About Me
 layout: template
 filename: about_me.md
 --- 
