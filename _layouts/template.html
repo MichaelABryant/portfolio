@@ -28,12 +28,7 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        
-          {% for page in site.pages %}
-          <a href={{ page.filename }}>hello?{{ page.title }}</a>
-          {% endfor %}
-        
+      <section id="main_content" class="inner">        
         {{ content }}
       </section>
     </div>
