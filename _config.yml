@@ -1,5 +1,5 @@
 title: Michael Bryant Portfolio
-description: <a href="about_me/about_me.html">About Me</a> | <a href="resume.pdf">Resume</a> | <a href="other_projects.html">Physics Projects</a>
+description: <a href="about_me.html">About Me</a> | <a href="resume.pdf">Resume</a> | <a href="other_projects.html">Physics Projects</a>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
