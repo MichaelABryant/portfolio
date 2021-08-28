@@ -4,6 +4,11 @@
 - Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an accuracy of 85.5% from the test set
 - Deployed the best model with a [front-end](https://predict-heart-diseases.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients 
 
+# [Vehicle Sales Price Recommender App](https://github.com/MichaelBryantDS/vehicle-price-rec)
+- Created 12 regression machine learning models to make a prediction of vehicle sales price using 301 vehicle sales records and seven features
+- Performed an exploratory data analysis and feature engineered dummy variables for categorical data
+- Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an MAE score of $502.69 and R-squared score of 0.9703 from the test set
+- Deployed the best model with a [front end](https://predict-vehicle-price.herokuapp.com/) hosted on a cloud application platform which can be used to suggest a sales price to people interested in selling their vehicle
 
 # [Project 1: COVID-19 EDA (SQL/Tableau)](https://github.com/MichaelBryantDS/covid-19-july-31-2021)
 - Performed an exploratory data analysis on a COVID-19 dataset consisting of 106,357 records and 59 variables recorded from the first case to July 31, 2021
@@ -15,11 +20,7 @@
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Prepared data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
 
-# [Project 3: Vehicle Sales Price Prediction (Python/HTML/Heroku)](https://github.com/MichaelBryantDS/vehicle-price-pred)
-- Created 12 regression machine learning models to make a prediction of vehicle sales price using 301 vehicle sales records and seven features
-- Performed an exploratory data analysis and feature engineered dummy variables for categorical data
-- Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an MAE score of $502.69 and R-squared score of 0.9703 from the test set
-- Deployed the best model with a [front end](https://predict-vehicle-price.herokuapp.com/) hosted on a cloud application platform which can be used to suggest a sales price to people interested in selling their vehicle
+
 
 # [Project 5: Credit Card Users Cluster Analysis (Python/HTML/Heroku)](https://github.com/MichaelBryantDS/credit-card-cluster)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
