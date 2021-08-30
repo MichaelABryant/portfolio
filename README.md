@@ -2,7 +2,7 @@
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 96.9%
-- Deployed the front-end with Flask which can be used by users to upload photo of birds for identification
+- Deployed the front-end with Flask on my local machine which can be used by users to upload photo of birds for identification
 
 <div align="center">
 
