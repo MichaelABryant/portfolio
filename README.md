@@ -58,7 +58,7 @@
 - Determined a majority of the explained variance, using principal component analysis (PCA), was due to users using their credit cards for purchases and cash advances
 - Performed two cluster analyses based on the PCA resulting in 16 categories of users to target with different advertisements
 - Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
-- Models can be used to consult advertisement companies, who have access to the credit card information, on how to advertise to users 
+- Models can be used by advertisement companies, who have access to the credit card information, to advertise to users 
 
 <div align="center">
 
