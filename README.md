@@ -45,6 +45,14 @@
 - Created two dashboards with eight visualizations of cases, deaths, vaccinations, hospitalizations, and testing for the World and the US
 - Queries and visualizations can be used to automate reports to give daily summaries of the status of COVID-19 to users through an app
 
+<div align="center">
+
+<figure>
+<img src="images/tableau-us-covid-jpg"><br/>
+</figure>
+
+</div>
+
 # [US Vehicle Accident Severity EDA and Data Cleaning](https://github.com/MichaelBryantDS/accident-severity)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and by finding missing data through a Python library and API
