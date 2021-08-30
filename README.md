@@ -2,7 +2,7 @@
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95.2%
-- Deployed the front-end with Flask which, if hosted on a cloud application platform, can be used by users to upload photo of birds for identification
+- Deployed the front-end with Flask which can be used by users to upload photo of birds for identification
 
 # [Heart Disease Predictor App](https://github.com/MichaelBryantDS/heart-disease-pred)
 - Created 13 classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
