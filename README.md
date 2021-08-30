@@ -45,6 +45,14 @@
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Prepared data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
 
+<div align="center">
+
+<figure>
+<img src="images/accident-map.JPG"><br/>
+</figure>
+
+</div>
+
 # [Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/credit-card-cluster)
 - Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
 - Determined a majority of the explained variance, using principal component analysis (PCA), was due to users using their credit cards for purchases and cash advances
