@@ -48,7 +48,7 @@
 <div align="center">
 
 <figure>
-<img src="images/accident-map.JPG"><br/>
+<img src="images/accident-map2.JPG"><br/>
 </figure>
 
 </div>
