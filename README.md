@@ -4,6 +4,14 @@
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 96.9%
 - Deployed the front-end with Flask which can be used by users to upload photo of birds for identification
 
+<div align="center">
+
+<figure>
+<img src="images/bird-deployment.gif"><br/>
+</figure>
+
+</div>
+
 # [Heart Disease Predictor App](https://github.com/MichaelBryantDS/heart-disease-pred)
 - Created 13 classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age for increased risk for each sex
