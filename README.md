@@ -60,6 +60,15 @@
 - Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
 - Deployed the best model with a [front end](https://ad-advisor.herokuapp.com/) hosted on a cloud application platform which can be used to consult credit card companies on the most efficient ads
 
+<div align="center">
+
+<figure>
+<img src="pca-explained-variance.jpg"><br/>
+</figure>
+
+</div>
+
+
 # [COVID-19 EDA](https://github.com/MichaelBryantDS/covid-19-july-31-2021)
 - Performed an exploratory data analysis on a COVID-19 dataset consisting of 106,357 records and 59 variables recorded from the first case to July 31, 2021
 - Created two dashboards with eight visualizations of cases, deaths, vaccinations, hospitalizations, and testing for the World and the US
