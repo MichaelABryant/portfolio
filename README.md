@@ -1,7 +1,7 @@
 # [Bird Identifier App](https://github.com/MichaelBryantDS/bird-identifier)
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
-- Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95.2%
+- Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 96.9%
 - Deployed the front-end with Flask which can be used by users to upload photo of birds for identification
 
 # [Heart Disease Predictor App](https://github.com/MichaelBryantDS/heart-disease-pred)
