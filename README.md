@@ -60,8 +60,6 @@
 - Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
 - Model can be used to consult advertisement companies, who have access to the credit card information, on how to advertise to users 
 
-<div align="center">
-
 <figure>
 <img src="images/clustering-1.jpg"><br/>
 </figure>
@@ -69,8 +67,6 @@
 <figure>
 <img src="images/clustering-2.jpg"><br/>
 </figure>
-
-</div>
 
 
 # [COVID-19 EDA](https://github.com/MichaelBryantDS/covid-19-july-31-2021)
