@@ -48,7 +48,7 @@
 <div align="center">
 
 <figure>
-<img src="images/tableau-us-covid-jpg"><br/>
+<img src="images/tableau-us-covid.jpg"><br/>
 </figure>
 
 </div>
