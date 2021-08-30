@@ -40,6 +40,18 @@
 
 </div>
 
+# [US Vehicle Accident Severity EDA and Data Cleaning](https://github.com/MichaelBryantDS/accident-severity)
+- Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
+- Cleaned data by imputation and by finding missing data through a Python library and API
+- Prepared data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
+
+# [Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/credit-card-cluster)
+- Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
+- Determined a majority of the explained variance, using principal component analysis (PCA), was due to users using their credit cards for purchases and cash advances
+- Performed two cluster analyses based on the PCA resulting in 16 categories of users to target with different advertisements
+- Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
+- Deployed the best model with a [front end](https://ad-advisor.herokuapp.com/) hosted on a cloud application platform which can be used to consult credit card companies on the most efficient ads
+
 # [COVID-19 EDA](https://github.com/MichaelBryantDS/covid-19-july-31-2021)
 - Performed an exploratory data analysis on a COVID-19 dataset consisting of 106,357 records and 59 variables recorded from the first case to July 31, 2021
 - Created two dashboards with eight visualizations of cases, deaths, vaccinations, hospitalizations, and testing for the World and the US
@@ -52,15 +64,3 @@
 </figure>
 
 </div>
-
-# [US Vehicle Accident Severity EDA and Data Cleaning](https://github.com/MichaelBryantDS/accident-severity)
-- Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
-- Cleaned data by imputation and by finding missing data through a Python library and API
-- Prepared data can be used to make models for predictioning accident severity based on date, time, and weather for emergency response services
-
-# [Credit Card Users Cluster Analysis](https://github.com/MichaelBryantDS/credit-card-cluster)
-- Performed an exploratory data analysis on a dataset consisting of 8950 credit card user records and 18 variables
-- Determined a majority of the explained variance, using principal component analysis (PCA), was due to users using their credit cards for purchases and cash advances
-- Performed two cluster analyses based on the PCA resulting in 16 categories of users to target with different advertisements
-- Hyperparameter tuned models with a five-fold cross-validation and, for the best models, obtained an accuracies of 99.3% and 99.8% from the test sets (used to predict two sets of clusters)
-- Deployed the best model with a [front end](https://ad-advisor.herokuapp.com/) hosted on a cloud application platform which can be used to consult credit card companies on the most efficient ads
