@@ -40,7 +40,7 @@
 
 </div>
 
-# [US Vehicle Accident Severity EDA and Data Cleaning](https://github.com/MichaelBryantDS/accident-severity)
+# [US Vehicle Accident Severity EDA](https://github.com/MichaelBryantDS/accident-severity)
 - Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
 - Cleaned data by imputation and by finding missing data through a Python library and API
 - Prepared data can be used to make models for predicting accident severity for emergency response services based on date, time, and weather
