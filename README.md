@@ -63,7 +63,7 @@
 <div align="center">
 
 <figure>
-<img src="pca-explained-variance.jpg"><br/>
+<img src="images/pca-explained-variance.jpg"><br/>
 </figure>
 
 </div>
