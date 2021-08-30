@@ -10,7 +10,7 @@
 - Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an MAE score of $502.69 and R-squared score of 0.9703 from the test set
 - Deployed the best model with a [front-end](https://recommend-vehicle-price.herokuapp.com/) hosted on a cloud application platform which can be used to suggest a sales price to people interested in selling their vehicle
 
-# [Bird Identifier App](https://github.com/MichaelBryantDS/bird-identify)
+# [Bird Identifier App](https://github.com/MichaelBryantDS/bird-identifier)
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
 - Selected pre-trained model for transfer learning based on initial performance
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 95.2%
