@@ -48,7 +48,7 @@
 <div align="center">
 
 <figure>
-<img src="images/salary-diff.jpg"><br/>
+<img src="images/salaries-by-titles.jpg"><br/>
 </figure>
 
 </div>
