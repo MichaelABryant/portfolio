@@ -40,10 +40,10 @@
 
 </div>
 
-# [US Vehicle Accident Severity EDA](https://github.com/MichaelBryantDS/accident-severity)
-- Performed an exploratory data analysis on a 1 GB dataset consisting of 2.9 million accident records and 47 variables
-- Cleaned data by imputation and by finding missing data through a Python library and API
-- Prepared data can be used to make models for predicting accident severity for emergency response services based on date, time, and weather
+# [SimplyHired Data Science Jobs EDA](https://github.com/michaelabryant/simplyhired-data-jobs)
+- Scraped and cleaned a 1342 row dataset consisting of 422 variables from SimplyHired.com
+- Performed an exploratory data analysis to determine the most frequently posted job titles, qualifications, and job benefits
+- Regressed salary onto 986 predictors and used a Bonferroni correction to determine statistically significant predictors
 
 <div align="center">
 
