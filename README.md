@@ -40,7 +40,7 @@
 
 </div>
 
-# [SimplyHired Data Science Jobs EDA](https://github.com/michaelabryant/simplyhired-data-jobs)
+# [SimplyHired Data Science Jobs EDA and OLS Analysis](https://github.com/michaelabryant/simplyhired-data-jobs)
 - Scraped and cleaned 1342 job postings consisting of 422 variables from SimplyHired.com
 - Performed an exploratory data analysis to determine the most frequently posted job titles, qualifications, and job benefits
 - Regressed salary onto 986 predictors, and used a Bonferroni correction to determine statistically significant predictors and their impact on salary
@@ -48,7 +48,7 @@
 <div align="center">
 
 <figure>
-<img src="images/salary-distribution.jpg"><br/>
+<img src="images/job-titles-salary.jpg"><br/>
 </figure>
 
 </div>
