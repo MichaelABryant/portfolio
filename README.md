@@ -12,16 +12,16 @@
 
 </div>
 
-# [Heart Disease Predictor App](https://github.com/MichaelBryantDS/heart-disease-pred)
-- Created 13 classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
+# [Heart Disease Predictor App](https://github.com/MichaelBryantDS/heart-disease-prediction)
+- Created nine classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age for increased risk for each sex
-- Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an accuracy of 85.5% from the test set
-- Deployed the best model with a [front-end](https://predict-heart-diseases.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients
+- Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained a recall of 85.5% from the test set
+- Deployed the best model with a [front-end](https://app-heart-disease-predictor.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients
 
 <div align="center">
 
 <figure>
-<img src="images/heart-deployment.gif"><br/>
+<img src="images/heart-disease-deployment-larger.gif"><br/>
 </figure>
 
 </div>
