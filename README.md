@@ -4,12 +4,11 @@
 - Regressed salary onto 986 predictors, and used a Bonferroni correction to determine statistically significant predictors and their impact on salary
 
 <div align="center">
-
 <figure>
 <img src="images/job-titles-salary.jpg"><br/>
 </figure>
-
 </div>
+<br/><br/>
 
 # [Predicting Heart Disease in Patients with Angina](https://github.com/michaelabryant/heart-disease-prediction)
 - Created nine classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
@@ -18,12 +17,11 @@
 - Deployed the best model with a [front-end](https://app-heart-disease-predictor.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients
 
 <div align="center">
-
 <figure>
 <img src="images/heart-disease-deployment-larger.gif"><br/>
 </figure>
-
 </div>
+<br/><br/>
 
 # [Concrete Compressive Strength Prediction](https://github.com/michaelabryant/concrete-strength-prediction)
 - Created four regression models to make a prediction of concrete compressive strength using 1030 concrete samples and nine features
@@ -32,12 +30,11 @@
 - Deployed the best model with a [front-end](https://predict-compressive-strength.herokuapp.com/) hosted on a cloud application platform which can be used to predict concrete compressive strength for civil engineers.
 
 <div align="center">
-
 <figure>
 <img src="images/concrete-frontend.gif"><br/>
 </figure>
-
 </div>
+<br/><br/>
 
 # [Bird Identifier App](https://github.com/michaelabryant/bird-identifier)
 - Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
@@ -46,9 +43,7 @@
 - Deployed the front-end with Flask on my local machine which can be used by users to upload photo of birds for identification
 
 <div align="center">
-
 <figure>
 <img src="images/bird-deployment.gif"><br/>
 </figure>
-
 </div>
