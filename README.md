@@ -11,7 +11,7 @@
 
 </div>
 
-# [Heart Disease Prediction](https://github.com/michaelabryant/heart-disease-prediction)
+# [Predicting Heart Disease in Patients with Angina](https://github.com/michaelabryant/heart-disease-prediction)
 - Created nine classification machine learning models to make a prediction of heart disease using 303 patient records and 12 features
 - Performed an exploratory data analysis and feature engineered a categorical risk factors variable based on high cholesterol, high blood pressure, high fasting blood sugar, and age for increased risk for each sex
 - Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained a recall of 85.5% from the test set
