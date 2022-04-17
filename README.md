@@ -1,13 +1,12 @@
-# [Bird Identifier App](https://github.com/MichaelBryantDS/bird-identifier)
-- Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
-- Selected pre-trained model for transfer learning based on initial performance
-- Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 96.9%
-- Deployed the front-end with Flask on my local machine which can be used by users to upload photo of birds for identification
+# [SimplyHired Data Science Jobs EDA and OLS Analysis](https://github.com/michaelabryant/simplyhired-data-jobs)
+- Scraped and cleaned 1342 job postings consisting of 422 variables from SimplyHired.com
+- Performed an exploratory data analysis to determine the most frequently posted job titles, qualifications, and job benefits
+- Regressed salary onto 986 predictors, and used a Bonferroni correction to determine statistically significant predictors and their impact on salary
 
 <div align="center">
 
 <figure>
-<img src="images/bird-deployment.gif"><br/>
+<img src="images/job-titles-salary.jpg"><br/>
 </figure>
 
 </div>
@@ -40,15 +39,16 @@
 
 </div>
 
-# [SimplyHired Data Science Jobs EDA and OLS Analysis](https://github.com/michaelabryant/simplyhired-data-jobs)
-- Scraped and cleaned 1342 job postings consisting of 422 variables from SimplyHired.com
-- Performed an exploratory data analysis to determine the most frequently posted job titles, qualifications, and job benefits
-- Regressed salary onto 986 predictors, and used a Bonferroni correction to determine statistically significant predictors and their impact on salary
+# [Bird Identifier App](https://github.com/MichaelBryantDS/bird-identifier)
+- Created a convolution neural network to classify photos of birds based on species using 39364 photos and 275 species
+- Selected pre-trained model for transfer learning based on initial performance
+- Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 96.9%
+- Deployed the front-end with Flask on my local machine which can be used by users to upload photo of birds for identification
 
 <div align="center">
 
 <figure>
-<img src="images/job-titles-salary.jpg"><br/>
+<img src="images/bird-deployment.gif"><br/>
 </figure>
 
 </div>
