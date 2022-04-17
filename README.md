@@ -3,6 +3,7 @@
 - Performed an exploratory data analysis to determine the most frequently posted job titles, qualifications, and job benefits
 - Regressed salary onto 986 predictors, and used a Bonferroni correction to determine statistically significant predictors and their impact on salary
 
+<br/>
 <div align="center">
 <figure>
 <img src="images/job-titles-salary.jpg"><br/>
@@ -16,6 +17,7 @@
 - Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained a recall of 85.5% from the test set
 - Deployed the best model with a [front-end](https://app-heart-disease-predictor.herokuapp.com/) hosted on a cloud application platform which can be used by doctors for evaluating patients
 
+<br/>
 <div align="center">
 <figure>
 <img src="images/heart-disease-deployment-larger.gif"><br/>
@@ -29,6 +31,7 @@
 - Hyperparameter tuned the models with a five-fold cross-validation and, for the best model, obtained an MSE of 17.56 MPa<sup>2</sup> and R<sup>2</sup> score of 0.93 from the test set
 - Deployed the best model with a [front-end](https://predict-compressive-strength.herokuapp.com/) hosted on a cloud application platform which can be used to predict concrete compressive strength for civil engineers.
 
+<br/>
 <div align="center">
 <figure>
 <img src="images/concrete-frontend.gif"><br/>
@@ -42,6 +45,7 @@
 - Hyperparameter tuned the selected model and modified model architecture to increase accuracy to 96.9%
 - Deployed the front-end with Flask on my local machine which can be used by users to upload photo of birds for identification
 
+<br/>
 <div align="center">
 <figure>
 <img src="images/bird-deployment.gif"><br/>
