@@ -34,7 +34,7 @@
 <div align="center">
 
 <figure>
-<img src="images/vehicle-deployment.gif"><br/>
+<img src="images/concrete-frontend.gif"><br/>
 </figure>
 
 </div>
